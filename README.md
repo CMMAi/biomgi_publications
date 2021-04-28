@@ -2,6 +2,30 @@
 README
 ======
 
+```bash
+python biomgi_publications/bib2md.py -b ./BioMGI.bib -f FORMAT.md -o README.md
+# parser.add_argument('--bibtex', '--bib', '-b', help='path to bibtex')
+# parser.add_argument('--format', '-f', help='FORMAT.md')
+# parser.add_argument('--output', '-o', default='./')
+```
+
+## FORMAT.md
+```markdown
+---
+groupBy: "year"
+sortBy: "title"
+---
+
+- {TITLE}
+  {AUTHOR}
+```
+
+### Supported Fields
+- [x] TITLE
+- [x] AUTHOR
+- [x] YEAR
+- [x] JOURNAL
+
 # 2018
   
 - AFM Characterization of the Internal Mammary Artery as a Novel Target for Arterial Stiffening
