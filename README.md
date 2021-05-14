@@ -26,20 +26,21 @@ sortBy: "title"
 - [x] YEAR
 - [x] JOURNAL
 
-# 2018
+# 2021
   
-- AFM Characterization of the Internal Mammary Artery as a Novel Target for Arterial Stiffening
-  Zhuo Chang, Paolo Paoletti, Maria Lyck Hansen, Hans Christian Beck, Po-Yu Chen, Lars Melholt Rasmussen, Riaz Akhtar  
-- Zebrafish as a model to study bone maturation: Nanoscale structural and mechanical characterization of age-related changes in the zebrafish vertebral column
-  Zhuo Chang, Po-Yu Chen, Yung-Jen Chuang, Riaz Akhtar
-# 2019
-  
-- Effects of Deformation Rate on the Unbinding Pathway of the MMP8-Aggrecan_IGD Complex in Cartilage
-  Deng Li, Shuwei Chang  
-- Evaluating the hierarchical, hygroscopic deformation of the Daucus carota umbel through structural characterization and mechanical analysis
-  Pengli Zhang, Po-Yu Chen, Bingfeng Wang, Rentong Yu, Haobo Pan, Bin Wang  
-- Molecular Structures and Mechanisms of Waterborne Biodegradable Polyurethane Nanoparticles
-  Chien-Hui Wen, Shun-Chieh Hsu, Shan-hui Hsu, Shu-Wei Chang
+- A perspective on musical representations of folded protein nanostructures
+  Sebastian L Franjou, Mario Milazzo, Chi-Hua Yu, Markus J Buehler  
+- Artificial intelligence and machine learning in design of mechanical materials
+  Kai Guo, Zhenze Yang, Chi-Hua Yu, Markus J. Buehler  
+- Bridging the gap between NMR measured mean silicate chain length and nano-scale silicate polymorphism of calcium silicate hydrates
+  Yuan Chiang, Shu-Wei Chang  
+- Geometrically toughening mechanism of cellular composites inspired by Fibonacci lattice in Liquidambar formosana
+  Yuan Chiang, Cheng-Che Tung, Xiang-Di Lin, Po-Yu Chen, Chuin-Shan Chen, Shu-Wei Chang  
+- Tunable interface hardening: Designing tough bio-inspired composites through 3D printing, testing, and computational validation
+  Ashish Ghimire, Ya-Yun Tsai, Po-Yu Chen, Shu-Wei Chang  
+- Tuning Mechanical Properties in Polycrystalline Solids Using a Deep Generative Framework
+  Yu-Chuan Hsu, Chi-Hua Yu, Markus J. Buehler
+
 # 2020
   
 - Effect of pH on Molecular Structures and Network of Glycol Chitosan
@@ -62,17 +63,19 @@ sortBy: "title"
   Deng Li, Tsu-Hsin Kao, Shu-Wei Chang  
 - The structural changes of the mutated ankyrin repeat domain of the human TRPV4 channel alter its ATP binding ability
   Deng Li, Tsu-Hsin Kao, Shu-Wei Chang
-# 2021
+
+# 2019
   
-- A perspective on musical representations of folded protein nanostructures
-  Sebastian L Franjou, Mario Milazzo, Chi-Hua Yu, Markus J Buehler  
-- Artificial intelligence and machine learning in design of mechanical materials
-  Kai Guo, Zhenze Yang, Chi-Hua Yu, Markus J. Buehler  
-- Bridging the gap between NMR measured mean silicate chain length and nano-scale silicate polymorphism of calcium silicate hydrates
-  Yuan Chiang, Shu-Wei Chang  
-- Geometrically toughening mechanism of cellular composites inspired by Fibonacci lattice in Liquidambar formosana
-  Yuan Chiang, Cheng-Che Tung, Xiang-Di Lin, Po-Yu Chen, Chuin-Shan Chen, Shu-Wei Chang  
-- Tunable interface hardening: Designing tough bio-inspired composites through 3D printing, testing, and computational validation
-  Ashish Ghimire, Ya-Yun Tsai, Po-Yu Chen, Shu-Wei Chang  
-- Tuning Mechanical Properties in Polycrystalline Solids Using a Deep Generative Framework
-  Yu-Chuan Hsu, Chi-Hua Yu, Markus J. Buehler
+- Effects of Deformation Rate on the Unbinding Pathway of the MMP8-Aggrecan_IGD Complex in Cartilage
+  Deng Li, Shuwei Chang  
+- Evaluating the hierarchical, hygroscopic deformation of the Daucus carota umbel through structural characterization and mechanical analysis
+  Pengli Zhang, Po-Yu Chen, Bingfeng Wang, Rentong Yu, Haobo Pan, Bin Wang  
+- Molecular Structures and Mechanisms of Waterborne Biodegradable Polyurethane Nanoparticles
+  Chien-Hui Wen, Shun-Chieh Hsu, Shan-hui Hsu, Shu-Wei Chang
+
+# 2018
+  
+- AFM Characterization of the Internal Mammary Artery as a Novel Target for Arterial Stiffening
+  Zhuo Chang, Paolo Paoletti, Maria Lyck Hansen, Hans Christian Beck, Po-Yu Chen, Lars Melholt Rasmussen, Riaz Akhtar  
+- Zebrafish as a model to study bone maturation: Nanoscale structural and mechanical characterization of age-related changes in the zebrafish vertebral column
+  Zhuo Chang, Po-Yu Chen, Yung-Jen Chuang, Riaz Akhtar
