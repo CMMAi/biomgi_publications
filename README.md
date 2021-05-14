@@ -36,8 +36,6 @@ sortBy: "title"
   
 - Effects of Deformation Rate on the Unbinding Pathway of the MMP8-Aggrecan_IGD Complex in Cartilage
   Deng Li, Shuwei Chang  
-- Effects of Deformation Rate on the Unbinding Pathway of the MMP8-Aggrecan_IGD Complex in Cartilage
-  Deng Li, Shuwei Chang  
 - Evaluating the hierarchical, hygroscopic deformation of the Daucus carota umbel through structural characterization and mechanical analysis
   Pengli Zhang, Po-Yu Chen, Bingfeng Wang, Rentong Yu, Haobo Pan, Bin Wang  
 - Molecular Structures and Mechanisms of Waterborne Biodegradable Polyurethane Nanoparticles
@@ -54,11 +52,7 @@ sortBy: "title"
   Li-Kai Yeh-Liu, Sheng-Yu Hsu, Po-Yu Chen, Jyh-Wei Lee, Jenq-Gong Duh  
 - Lightweight, compression-resistant cellular structures inspired from the infructescence of Liquidambar formosana
   Cheng-Che Tung, Hsin-Jui Wang, Po-Yu Chen  
-- Lightweight, compression-resistant cellular structures inspired from the infructescence of Liquidambar formosana
-  Cheng-Che Tung, Hsin-Jui Wang, Po-Yu Chen  
 - Reversible Underwater Adhesion: The Unique C-shaped Suckers of Net-winged Midge Larvae
-  Guan-Lin Liu, Haw-Kai Chang, Yung-Chieh Chuang, Yu-Min Lin, Po-Yu Chen  
-- Reversible Underwater Adhesion: The Unique C-shaped Suckers of Net-winged Midge Larvae (Blepharicera sp.)
   Guan-Lin Liu, Haw-Kai Chang, Yung-Chieh Chuang, Yu-Min Lin, Po-Yu Chen  
 - Structural Characterization of the CD44 Stem Region for Standard and Cancer-Associated Isoforms
   Kun-Lin Chen, Deng Li, Ting-Xuan Lu, Shu-Wei Chang  
