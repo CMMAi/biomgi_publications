@@ -30,7 +30,7 @@ GROUPBY = md.metadata.get('groupBy')
 SORTBY = md.metadata.get('sortBy')
 # %%
 entries = bib_database.entries
-entries.sort(key=lambda x: x.get(GROUPBY, ''))
+entries.sort(key=lambda x: x.get(GROUPBY, ''), reverse=True)
 #%%
 md_file = MdUtils(file_name=OUTPUT_PATH.stem, title=OUTPUT_PATH.stem)
 # %%
@@ -47,6 +47,7 @@ for key, group in groupby(entries, lambda x: x.get(GROUPBY, '')):
   md_file.new_header(level=1, title=f'{key}')
   for entry in sorted(group, key=lambda x: x.get(SORTBY, '')):
     format_entry(md_file=md_file, entry=entry)
+  md_file.new_line()
 
 # %%
 md_file.create_md_file()
