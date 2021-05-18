@@ -3,5 +3,5 @@ groupBy: "year"
 sortBy: "title"
 ---
 
-- {TITLE}
-  {AUTHOR}
+- {AUTHOR}, "{TITLE}", JOURNAL, YEAR
+
