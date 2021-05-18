@@ -62,7 +62,6 @@ sortBy: "title"
 - The structural changes of the mutated ankyrin repeat domain of the human TRPV4 channel alter its ATP binding ability
   Deng Li, Tsu-Hsin Kao, Shu-Wei Chang  
 - The structural changes of the mutated ankyrin repeat domain of the human TRPV4 channel alter its ATP binding ability
-  Deng Li, Tsu-Hsin Kao, Shu-Wei Chang
 
 # 2019
   
