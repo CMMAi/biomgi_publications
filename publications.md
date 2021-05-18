@@ -1,5 +1,5 @@
 
-publications
+Publications
 ============
 
 # 2021
